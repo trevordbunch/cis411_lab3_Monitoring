@@ -29,6 +29,7 @@
     "lodash.startcase": "^4.4.0",
     "lokijs": "^1.5.5",
     "newrelic": "^4.13.1",
+    "save": "^2.4.0",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
